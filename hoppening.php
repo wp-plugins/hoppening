@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hoppening
 Plugin URI: http://hoppening.com
-Description: Add a shortcode and a widget to embed Hoppening events
+Description: Create your favorite concerts calendar on your blog/website with a widget or shortcode
 Version: 1.0
 Author: Benjamin Niess
 Author URI: http://benjamin-niess.fr
