@@ -49,7 +49,7 @@ You can configure the width, the height, the background & the font color
 1. The widget administration
 2. The shortcode popin
 3. The front-end view of the widget
-4. 3 different themes 
+4. The form to create concert on the Hoppening website
 
 == Changelog ==
 
