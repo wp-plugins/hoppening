@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Hoppening
+Plugin Name: Concerts Calendar
 Plugin URI: http://hoppening.com
-Description: Create your favorite concerts calendar on your blog/website with a widget or shortcode
-Version: 1.0
+Description: Create your favorite concerts calendar on your blog/website using hoppening website.
+Version: 1.1
 Author: Benjamin Niess
 Author URI: http://benjamin-niess.fr
 Text Domain: hoppening
