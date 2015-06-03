@@ -5,7 +5,7 @@ class Hoppening_Widget extends WP_Widget {
 
 		parent::__construct(
 			'hoppening', // Base ID
-			__('Hoppening', 'hoppening'), // Name
+			__('Concerts Calendar Agenda', 'hoppening'), // Name
 			array( 'description' => __( 'Add a calendar of Hoppening events for a specific user ID', 'hoppening' ), ) // Args
 		);
 
