@@ -1,27 +1,23 @@
-=== Hoppening ===
+=== Concert Agenda Calendar ===
 
 Contributors: Hoppening, benjaminniess
 Donate link: http://hoppening.com
-Tags: hoppening, widget, concert, calendar, agenda, music, events
+Tags: hoppening, widget, concert, calendar, agenda, music, events, listings
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Hoppening is a service which allows to integrate an agenda of concerts or live events on your blog or web site. The service is specially designed for music bloggers and venues/festival websites. 
+Hoppening is a service which allows you to integrate city-specific concert or live events listings on your blog or web site. The service is specifically designed for music bloggers, venues, and festival websites.
 
-On Hoppening.com, you can easily create concerts via a friendly interface with a lot of informations (styles, artist videos, sounds, etc), then you can cutomize your widget with your prefered colors, style and dimension.
+On Hoppening.com, you can easily create concert listings using a friendly interface, which provides each site visitor complete artist information (artist websites, music videos, links to audiotracks etc).  Your widget is totally customizable,  with the option to select preferred colors, dimensions, style and placement on your site--inside a sidebar or directly in a page or post. The plugin works with the http://www.hoppening.com service.
 
-You can add Hoppening widget where you want on your site inside a sidebar or directly in a page/post content. The plugin works with the www.hoppening.com service. 
+The first step is to create an account on Hoppening.com in order to get your username in your Account Settings page. You can now create new concerts directly on Hoppening.com, or add concerts already created by others bloggers on the site, by clicking on the 'Clap' button.
 
-You should create an account on Hoppening.com in order to get your username, in your Account Settings page.
-
-Then, you should create concerts directly on Hoppening or add concerts already created by others bloggers on the site, by clicking on the clap button.
-
-Every concerts that you create or you clap will automatically and immediately displayed in the widget integrated on your blog/site.
+Every concert that you create or you 'clap' will be immediately displayed in the now-integrated widget on your blog or site.
 
 Demo site:
 http://wordpress.hoppening.com/
