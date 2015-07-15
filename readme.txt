@@ -1,11 +1,11 @@
-=== Concert Agenda Calendar ===
+=== The Concert Calendar ===
 
 Contributors: Hoppening, benjaminniess
 Donate link: http://hoppening.com
-Tags: hoppening, widget, concert, calendar, agenda, music, events, listings
+Tags: hoppening, widget, concert, calendar, agenda, music, events, listings, shows
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.1.6
+Stable tag: 1.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

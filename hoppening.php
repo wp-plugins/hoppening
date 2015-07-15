@@ -3,7 +3,7 @@
 Plugin Name: Concerts Calendar Agenda
 Plugin URI: http://hoppening.com
 Description: Create your favorite concerts calendar on your blog/website using hoppening website.
-Version: 1.1.6
+Version: 1.1.7
 Author: Benjamin Niess
 Author URI: http://benjamin-niess.fr
 Text Domain: hoppening
